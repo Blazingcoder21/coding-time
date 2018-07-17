@@ -1,0 +1,10 @@
+print ("This is a program to accept Name, Address and Telephone No. and display it on the screen")
+myName = input ("Please enter your name: ")
+myAddress_houseNo = input ("Please enter your HouseNumber: ")
+myAddress_Street = input ("Please Enter your street Name: ")
+myAddress_postcode = input ("Please Enter your Post Code: ")
+myTelephone_mobileNo = input ("Please enter your Telephone Number: ")
+
+print (' My name is', myName,' ,I live at',myAddress_houseNo,', ',myAddress_Street,', ','myAddress_postcode and my telephone number is', myTelephone_mobileNo)
+       
+
