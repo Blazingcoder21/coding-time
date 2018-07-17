@@ -1,0 +1,6 @@
+Check_Number = float(input ('Enter a Number: '))
+
+if Check_Number/Check_Number > 1:
+    print (Check_Number, 'is not a prime number')
+else:
+    print (Check_Number, 'is a prime number')
