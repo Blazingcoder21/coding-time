@@ -6,7 +6,7 @@ def cybertron0():
     elif choice == "2":
         decepticons()
     else:
-        print("that's not one of the choices!")
+        print("That's not one of the choices!")
         cybertron0()
 
 
@@ -18,7 +18,7 @@ def cybertron1():
     elif choice == "5":
         bumblebee2()
     else:
-        print("that's not one of the choices!")
+        print("That's not one of the choices!")
         cybertron1()
 
 def cybertron2():
@@ -29,7 +29,7 @@ def cybertron2():
     elif choice == "6":
         shockwave6()
     else:
-        print("that's not one of the choices!")
+        print("That's not one of the choices!")
         cybertron2()
 
 def cybertron3():
@@ -40,7 +40,7 @@ def cybertron3():
     elif choice == "attack decepticons":
         attack decepticons9()
     else:
-        print("that's not one of the choices!")
+        print("That's not one of the choices!")
         cybertron3()
 
 def cybertron4():
